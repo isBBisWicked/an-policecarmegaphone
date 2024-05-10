@@ -8,3 +8,4 @@ A small script i wrote to add the ability to have a megaphone in the cop cars
 - Hold LeftShift and keep holding it and then use your push to talk to speak loudly.
 
 Optimised by: https://github.com/JericoFX
+ESX Version by: https://github.com/isBBisWicked
